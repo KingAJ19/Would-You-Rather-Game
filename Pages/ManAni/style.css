@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
 :root {
-  --left-bg-color: rgba(244, 176, 4, 0.7);
-  --right-bg-color: rgba(87, 17, 103, 0.8);
-  --left-btn-hover-color: rgba(244, 176, 4, 0.7);
+  --left-bg-color: rgba(222, 215, 198, 0.7);
+  --right-bg-color: rgba(18, 15, 18, 0.8);
+  --left-btn-hover-color: rgba(222, 215, 198, 0.7);
   --right-btn-hover-color: rgb(20, 11, 24);
   --hover-width: 75%; 
   --minimize-width: 25%;
