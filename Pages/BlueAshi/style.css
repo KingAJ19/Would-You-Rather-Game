@@ -2,9 +2,9 @@
 
 :root {
   --left-bg-color: rgba(24, 127, 237, 0.7);
-  --right-bg-color: rgba(229, 155, 18, 0.8);
+  --right-bg-color: rgba(175, 118, 14, 0.8);
   --left-btn-hover-color: rgba(24, 127, 237, 0.7);
-  --right-btn-hover-color: rgb(62, 60, 63);
+  --right-btn-hover-color: rgb(104, 96, 32);
   --hover-width: 75%; 
   --minimize-width: 25%;
   --transition-speed: 1s;
