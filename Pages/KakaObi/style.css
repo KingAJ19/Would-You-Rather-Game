@@ -75,7 +75,7 @@ h1 {
 
 .split.left {
   left: 0;
-  background: url("/Images/Choices/kakashi.jpg")
+  background: url("Images/Choices/kakashi.jpg")
     no-repeat center / cover;
 }
 
@@ -89,7 +89,7 @@ h1 {
 
 .split.right {
   right: 0;
-  background: url("/Images/Choices/obito.jpg")
+  background: url("Images/Choices/obito.jpg")
     no-repeat center / cover;
 }
 
