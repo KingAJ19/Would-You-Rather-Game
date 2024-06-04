@@ -75,7 +75,7 @@ h1 {
 
 .split.left {
   left: 0;
-  background: url("/Images/Choices/kobe-8.png")
+  background: url("Images/Choices/kobe-8.png")
     no-repeat center / cover;
 }
 
@@ -89,7 +89,7 @@ h1 {
 
 .split.right {
   right: 0;
-  background: url("/Images/Choices/kobe-24.jpg")
+  background: url("Images/Choices/kobe-24.jpg")
     no-repeat center / cover;
 }
 
