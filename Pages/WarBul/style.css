@@ -75,7 +75,7 @@ h1 {
 
 .split.left {
   left: 0;
-  background: url("/Images/Choices/17-warriors.jpg")
+  background: url("Images/Choices/17-warriors.jpg")
     no-repeat center / cover;
 }
 
@@ -89,7 +89,7 @@ h1 {
 
 .split.right {
   right: 0;
-  background: url("/Images/Choices/96-bulls.jpg")
+  background: url("Images/Choices/96-bulls.jpg")
     no-repeat center / cover;
 }
 
